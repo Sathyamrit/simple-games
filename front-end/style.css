@@ -5,8 +5,9 @@
     text-decoration: none;
     color:black;
     font-weight: normal;
+    font-style: normal;
     font-size: 16px;
-    font-family: cursive;
+    font-family: "Satisfy", serif;
 }
 
 h1{ 
@@ -50,7 +51,10 @@ body{
 }
 
 .socials a{
-    padding: 15px;
+    font-size: 20px;
+}
+.fa-brands{
+    padding-right: 15px;
 }
 .socials h2{
     font-size: 1.5em;
