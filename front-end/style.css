@@ -34,3 +34,27 @@ body{
     text-align: center;
     background-color: #f4f4f4;
 }
+
+.game-list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 100px;
+    column-gap: 100px;
+}
+.game-list h3{
+    font-size: 2em;
+    font-weight: bold;
+}
+.game-list section{
+    background-color: #4CAF50;
+}
+
+.socials a{
+    padding: 15px;
+}
+.socials h2{
+    font-size: 1.5em;
+}
+.links{
+    margin-top: 15px;
+}
